@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okoore
 - 👀 I’m interested in Javascript 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
    any DroidScript or PHONK JS Framework
    Projects
